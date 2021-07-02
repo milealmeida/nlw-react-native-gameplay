@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 import { Image } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 
