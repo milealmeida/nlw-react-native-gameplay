@@ -10,7 +10,7 @@ import { theme } from '../../global/styles/theme';
 
 export function Load() {
     return (
-        <View>
+        <View style={styles.container}>
             <ActivityIndicator
                 size="large"
                 color={theme.colors.primary}
